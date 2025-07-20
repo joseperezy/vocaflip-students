@@ -4,6 +4,7 @@
     "institution": "Colegio San José",
     "grade": "10°",
     "teacher": "María González",
+    "userType": "student",
     "active": true,
     "created": "2024-01-15",
     "maxLevel": 5
@@ -13,6 +14,7 @@
     "institution": "Instituto Técnico Nacional",
     "grade": "11°",
     "teacher": "Carlos Martínez",
+    "userType": "student",
     "active": true,
     "created": "2024-01-16",
     "maxLevel": 3
@@ -22,8 +24,62 @@
     "institution": "Universidad Nacional",
     "grade": "Primer Semestre",
     "teacher": "Dr. Patricia López",
+    "userType": "student",
     "active": true,
     "created": "2024-01-17",
+    "maxLevel": 5
+  },
+  "EST2024004": {
+    "name": "María José Martínez",
+    "institution": "Colegio Técnico Industrial",
+    "grade": "9°",
+    "teacher": "Ing. Roberto Silva",
+    "userType": "student",
+    "active": true,
+    "created": "2024-01-18",
+    "maxLevel": 4
+  },
+  "EST2024005": {
+    "name": "Carlos Andrés López",
+    "institution": "Instituto Bilingüe",
+    "grade": "11°",
+    "teacher": "Prof. Sandra Ruiz",
+    "userType": "student",
+    "active": true,
+    "created": "2024-01-19",
+    "maxLevel": 5
+  },
+  "PROF2024001": {
+    "name": "María González",
+    "institution": "Colegio San José",
+    "position": "Docente de Inglés",
+    "subject": "Inglés",
+    "department": "Humanidades",
+    "userType": "teacher",
+    "active": true,
+    "created": "2024-01-10",
+    "maxLevel": 5
+  },
+  "PROF2024002": {
+    "name": "Dr. Patricia López",
+    "institution": "Universidad Nacional",
+    "position": "Profesora Titular",
+    "subject": "Inglés Avanzado",
+    "department": "Lenguas Extranjeras",
+    "userType": "teacher",
+    "active": true,
+    "created": "2024-01-12",
+    "maxLevel": 5
+  },
+  "PROF2024003": {
+    "name": "Carlos Martínez",
+    "institution": "Instituto Técnico Nacional",
+    "position": "Coordinador Académico",
+    "subject": "Inglés Técnico",
+    "department": "Idiomas",
+    "userType": "teacher",
+    "active": true,
+    "created": "2024-01-14",
     "maxLevel": 5
   },
   "DEMO2024": {
@@ -31,26 +87,41 @@
     "institution": "Institución Demo",
     "grade": "Demo",
     "teacher": "José Luis Pérez Yepes",
+    "userType": "student",
     "active": true,
     "created": "2024-01-01",
     "maxLevel": 5
   },
-  "PROF2024001": {
-    "name": "María González",
-    "institution": "Colegio San José",
-    "grade": "Profesora",
-    "teacher": "José Luis Pérez Yepes",
+  "DEMO_PROF2024": {
+    "name": "Profesor Demo",
+    "institution": "Institución Demo",
+    "position": "Docente Demo",
+    "subject": "Inglés",
+    "department": "Demo",
+    "userType": "teacher",
     "active": true,
-    "created": "2024-01-10",
+    "created": "2024-01-01",
     "maxLevel": 5
   },
-  "EST2024006": {
-  "name": "José Luis Perez Yepes",
-  "institution": "IE EL COROZAL",
-  "grade": "8",
-  "teacher": "FERNEL",
-  "active": true,
-  "created": "2025-07-20",
-  "maxLevel": 5
+  "TEST2024001": {
+    "name": "Usuario de Prueba",
+    "institution": "Institución de Pruebas",
+    "grade": "Test",
+    "teacher": "Administrador",
+    "userType": "student",
+    "active": true,
+    "created": "2024-01-01",
+    "maxLevel": 5
+  },
+  "ADMIN2024": {
+    "name": "José Luis Pérez Yepes",
+    "institution": "VocaFlip Kids",
+    "position": "Administrador del Sistema",
+    "subject": "Todas las materias",
+    "department": "Administración",
+    "userType": "teacher",
+    "active": true,
+    "created": "2024-01-01",
+    "maxLevel": 5
   }
 }
