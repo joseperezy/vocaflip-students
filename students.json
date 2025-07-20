@@ -123,5 +123,17 @@
     "active": true,
     "created": "2024-01-01",
     "maxLevel": 5
+  },
+  "ADMIN2025": {
+    "name": "José Yepes",
+    "institution": "VocaFlip Kids",
+    "position": "Administrador del Sistema",
+    "subject": "Tecnología",
+    "department": "Tecnología",
+    "userType": "teacher",
+    "active": true,
+    "created": "2024-01-01",
+    "maxLevel": 5
   }
+
 }
