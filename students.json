@@ -1,0 +1,47 @@
+{
+  "EST2024001": {
+    "name": "Juan Carlos Pérez",
+    "institution": "Colegio San José",
+    "grade": "10°",
+    "teacher": "María González",
+    "active": true,
+    "created": "2024-01-15",
+    "maxLevel": 5
+  },
+  "EST2024002": {
+    "name": "Ana María Rodríguez",
+    "institution": "Instituto Técnico Nacional",
+    "grade": "11°",
+    "teacher": "Carlos Martínez",
+    "active": true,
+    "created": "2024-01-16",
+    "maxLevel": 3
+  },
+  "EST2024003": {
+    "name": "Luis Fernando García",
+    "institution": "Universidad Nacional",
+    "grade": "Primer Semestre",
+    "teacher": "Dr. Patricia López",
+    "active": true,
+    "created": "2024-01-17",
+    "maxLevel": 5
+  },
+  "DEMO2024": {
+    "name": "Estudiante Demo",
+    "institution": "Institución Demo",
+    "grade": "Demo",
+    "teacher": "José Luis Pérez Yepes",
+    "active": true,
+    "created": "2024-01-01",
+    "maxLevel": 5
+  },
+  "PROF2024001": {
+    "name": "María González",
+    "institution": "Colegio San José",
+    "grade": "Profesora",
+    "teacher": "José Luis Pérez Yepes",
+    "active": true,
+    "created": "2024-01-10",
+    "maxLevel": 5
+  }
+}
