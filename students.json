@@ -1,22 +1,22 @@
 {
   "EST2024001": {
-    "name": "Juan Carlos Pérez",
-    "institution": "Colegio San José",
-    "grade": "10°",
-    "teacher": "María González",
+    "name": "Danelis",
+    "institution": "IE El Corozal",
+    "grade": "8°",
+    "teacher": "Fernel",
     "userType": "student",
     "active": true,
-    "created": "2024-01-15",
+    "created": "2025-07-21",
     "maxLevel": 5
   },
-  "EST2024002": {
-    "name": "Ana María Rodríguez",
+  "EST2025002": {
+    "name": "Caterine",
     "institution": "Instituto Técnico Nacional",
-    "grade": "11°",
-    "teacher": "Carlos Martínez",
+    "grade": "9°",
+    "teacher": "Fernel",
     "userType": "student",
     "active": true,
-    "created": "2024-01-16",
+    "created": "2025-07-21",
     "maxLevel": 5
   },
   "EST2024003": {
@@ -49,22 +49,22 @@
     "created": "2024-01-19",
     "maxLevel": 5
   },
-  "PROF2024001": {
-    "name": "María González",
-    "institution": "Colegio San José",
-    "position": "Docente de Inglés",
-    "subject": "Inglés",
+  "PROF2025001": {
+    "name": "Maria José",
+    "institution": "IE El Corozal",
+    "position": "Docente de Castellano",
+    "subject": "Castellano",
     "department": "Humanidades",
-    "userType": "teacher",
+    "userType": "Teacher",
     "active": true,
     "created": "2024-01-10",
     "maxLevel": 5
   },
-  "PROF2024002": {
-    "name": "Dr. Patricia López",
-    "institution": "Universidad Nacional",
-    "position": "Profesora Titular",
-    "subject": "Inglés Avanzado",
+  "PROF2025002": {
+    "name": "Fernel",
+    "institution": "IE El Corozal",
+    "position": "Docente de Inglés",
+    "subject": "Inglés",
     "department": "Lenguas Extranjeras",
     "userType": "teacher",
     "active": true,
